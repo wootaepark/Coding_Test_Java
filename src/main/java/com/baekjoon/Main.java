@@ -1,4 +1,4 @@
-package com.soma;
+package com.baekjoon;
 
 public class Main {
 	public static void main(String[] args) {
